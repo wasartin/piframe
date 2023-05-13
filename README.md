@@ -1,6 +1,8 @@
 # piframe
 Collection of services to display images on a raspberry pi
 
+![example](https://github.com/wasartin/piframe/assets/22924249/cc8289f8-fa39-4e58-834f-b679b41afb0a)
+
 ![piframe](https://github.com/wasartin/piframe/assets/22924249/2834f2d4-0491-4731-aa8f-8d8a982a3d85)
 
 ### Display Logic
