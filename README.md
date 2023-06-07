@@ -9,7 +9,7 @@ Collection of services to display images on a raspberry pi
 [Piframe Display](https://github.com/wasartin/piframe-display)
 
 ### Rest API
-[Piframe Gallery](https://github.com/wasartin/pi-gallery)
+[Piframe Image API](https://github.com/wasartin/image-api)
 
 ### Database
 [Piframe DB](https://github.com/wasartin/photo-db)
